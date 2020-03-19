@@ -9,8 +9,8 @@ avatar: assets/img/pydata_logo.png                         # Empty for no avatar
 favicon: assets/pydata.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Strona społeczności PyData Bydgoszcz  # Change Blog header text
-header_feature_image: assets/img/pydata_log_big.png
+header_text: " " # Change Blog header text
+header_feature_image: assets/img/pydata_log_big.jpg
 footer_text: PyData Bydgoszcz @ Copyright 2020
 
 # Blog
