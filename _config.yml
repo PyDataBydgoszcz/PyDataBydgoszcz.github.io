@@ -1,18 +1,17 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: ""
+url: "https://PyDataBydgoszcz.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+title: "PyData Bydgoszcz"                                  # site's title
+description: "PyData Bydgoszcz community site"      # used by search engines
+avatar: assets/img/pydata_logo.png                         # Empty for no avatar in navbar
+favicon: assets/pydata.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
-header_feature_image: assets/img/pexels/triangular.jpeg
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+header_text: Strona społeczności PyData Bydgoszcz  # Change Blog header text
+header_feature_image: assets/img/pydata_log_big.png
+footer_text: PyData Bydgoszcz @ Copyright 2020
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
