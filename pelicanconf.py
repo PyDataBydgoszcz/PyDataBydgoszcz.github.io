@@ -14,6 +14,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+# THEME = "./theme/"
 
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),
@@ -23,7 +24,7 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
 
 # Social widget
 SOCIAL = (
-        ('github', 'https://github.com/pydatabydgoszcz'),
+    ('github', 'https://github.com/pydatabydgoszcz'),
     ('facebook', 'https://www.facebook.com/PyDataBydgoszcz/'),
     ('twitter', 'https://twitter.com/pydatabydgoszcz'),
     ('youtube', 'https://www.youtube.com/channel/UCe2iuKW4GLjR837xp-ERETQ'),
