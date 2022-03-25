@@ -22,10 +22,16 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+        ('github', 'https://github.com/pydatabydgoszcz'),
+    ('facebook', 'https://www.facebook.com/PyDataBydgoszcz/'),
+    ('twitter', 'https://twitter.com/pydatabydgoszcz'),
+    ('youtube', 'https://www.youtube.com/channel/UCe2iuKW4GLjR837xp-ERETQ'),
+    ('email', 'mailto:pydata.bydgoszcz@gmail.com'),
+    ('linkedin', 'https://www.linkedin.com/company/pydatabydgoszcz'),
+)
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
