@@ -23,6 +23,7 @@ DEFAULT_CATEGORY = 'meetup'
 
 # Social widget
 SOCIAL = (
+    ('meetup', 'https://www.meetup.com/PyData-Bydgoszcz/'),
     ('github', 'https://github.com/pydatabydgoszcz'),
     ('facebook', 'https://www.facebook.com/PyDataBydgoszcz/'),
     ('twitter', 'https://twitter.com/pydatabydgoszcz'),
