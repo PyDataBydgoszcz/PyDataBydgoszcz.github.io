@@ -14,21 +14,18 @@ Gdzie: klub Eljazz, Kręta 3, Bydgoszcz.
 Cena: zupełnie za darmo!
 
 
+![Meetup image](/assets/img/meetups/2022.04-fb.jpg)
+
 # Plan wydarzenia:
 
-18:00-18:10 Wstęp
+- 18:00-18:10 Wstęp
+- 18:10-18:15 Bonus: PLUM: „01. Co to jest uczenie maszynowe?”
+- 18:15-18:20 Przerwa
+- 18:20-18:50 Dawid Stachowiak: „Detekcja koron drzew na zdjęciach satelitarnych Bydgoszczy”
+- 18:50-19:05 Przerwa
+- 19:05-19:50 Artur Zygadło: „[MASK] is all you need. Przegląd najnowszych metod i narzędzi NLP”
+- 19:50-20:00 Konkurs
 
-18:10-18:15 Bonus: PLUM: „01. Co to jest uczenie maszynowe?”
-
-18:15-18:20 Przerwa
-
-18:20-18:50 Dawid Stachowiak: „Detekcja koron drzew na zdjęciach satelitarnych Bydgoszczy”
-
-18:50-19:05 Przerwa
-
-19:05-19:50 Artur Zygadło: „[MASK] is all you need. Przegląd najnowszych metod i narzędzi NLP”
-
-19:50-20:00 Konkurs
 
 # O prelegentach:
 

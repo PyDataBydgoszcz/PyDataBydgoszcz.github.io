@@ -11,6 +11,8 @@ Kiedy: wtorek 17.05.2022, 18:00-20:15.
 Gdzie: klub Eljazz, Kręta 3, Bydgoszcz.
 Cena: zupełnie za darmo! i do tego darmowe piwo! i konkurs z cennymi nagrodami!
 
+![Meetup image](/assets/img/meetups/2022.05-fb.jpg)
+
 # Plan wydarzenia:
 
 - 18:00-18:10 Wstęp
@@ -21,7 +23,6 @@ Cena: zupełnie za darmo! i do tego darmowe piwo! i konkurs z cennymi nagrodami!
 - 19:20-20:05 Jan Kanty Milczek: „Nienawidzę pandasów”
 - 20:05-20:15 Konkurs
 
-![Meetup image](/assets/img/meetups/2022.05-fb.jpg)
 
 # O prelegentach:
 
