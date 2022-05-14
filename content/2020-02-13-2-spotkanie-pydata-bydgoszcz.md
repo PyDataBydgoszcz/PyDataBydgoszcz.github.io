@@ -21,7 +21,7 @@ Plan wydarzenia:
 19:00-19:15 Przerwa  
 19:15-20:00 Szymon Przedwojski: "Testowanie jednostkowe - jak robić to dobrze?"  
 
-![Meetup image]({{ "/assets/img/meetups/2020.02-fb.jpg" | relative_url }})
+![Meetup image](/assets/img/meetups/2020.02-fb.jpg)
 
 O prelegentach:
 

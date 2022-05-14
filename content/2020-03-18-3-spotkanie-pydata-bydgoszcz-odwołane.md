@@ -11,4 +11,4 @@ Z bólem serca informujemy, że mimo naszych najszczerszych chęci, marcowe - tr
 się ze względu na zamknięcie UTP w związku z zagrożeniem epidemią Coronavirus. Powrócimy do naszych regularnych spotkań,
 gdy tylko sytuacja się uspokoi.
 
-![Meetup cancelled image]({{ "/assets/img/meetups/2020.03-odwołane.png" | relative_url }})
+![Meetup cancelled image](/assets/img/meetups/2020.03-odwołane.png)
