@@ -16,12 +16,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 STATIC_PATHS = ["assets"]
 # THEME = "./theme/"
+DISPLAY_CATEGORIES_ON_MENU = False
+DEFAULT_CATEGORY = 'meetup'
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
 
 # Social widget
 SOCIAL = (
