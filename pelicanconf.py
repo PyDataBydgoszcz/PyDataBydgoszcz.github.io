@@ -18,6 +18,9 @@ STATIC_PATHS = ["assets"]
 THEME = "./themes/minimal-xy/"
 DISPLAY_CATEGORIES_ON_MENU = False
 DEFAULT_CATEGORY = 'meetup'
+AUTHOR_HEADER="./assets/img/pydata_logo_big.jpg"
+AUTHOR_AVATAR="./assets/img/pydata_logo.png"
+AUTHOR_WEB=""
 
 # Blogroll
 
