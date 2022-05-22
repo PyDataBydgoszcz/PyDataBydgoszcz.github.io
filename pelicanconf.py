@@ -15,7 +15,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 STATIC_PATHS = ["assets"]
-# THEME = "./theme/"
+THEME = "./themes/minimal-xy/"
 DISPLAY_CATEGORIES_ON_MENU = False
 DEFAULT_CATEGORY = 'meetup'
 
