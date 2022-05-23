@@ -1,0 +1,3 @@
+[submodule "themes/minimal-xy"]
+	path = themes/minimal-xy
+	url = https://github.com/anselmos/minimal-xy.git
