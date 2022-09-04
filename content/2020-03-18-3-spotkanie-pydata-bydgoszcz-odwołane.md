@@ -4,7 +4,7 @@ title: 3. spotkanie PyData Bydgoszcz odwołane!
 feature-img: "assets/img/stock/green-snake-45246.jpg"
 thumbnail: "assets/img/stock/green-snake-45246-thumb.jpg"
 image: "assets/img/stock/green-snake-45246.jpg-thumb" #seo tag
-tags: [meetup, python, concurrent, parallel, testing]
+tags: [raspberrypi, bluetooth, shell-app]
 excerpt_separator: <!--more-->
 ---
 Z bólem serca informujemy, że mimo naszych najszczerszych chęci, marcowe - trzecie spotkanie PyData Bydgoszcz nie odbędzie

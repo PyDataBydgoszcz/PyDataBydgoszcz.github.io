@@ -4,7 +4,7 @@ title: 3. spotkanie PyData Bydgoszcz[ODWOŁANE]
 feature-img: "assets/img/stock/green-snake-45246.jpg"
 thumbnail: "assets/img/stock/green-snake-45246-thumb.jpg"
 image: "assets/img/stock/green-snake-45246.jpg-thumb" #seo tag
-tags: [meetup, python, concurrent, parallel, testing]
+tags: [raspberrypi, bluetooth, shell-app]
 excerpt_separator: <!--more-->
 ---
 

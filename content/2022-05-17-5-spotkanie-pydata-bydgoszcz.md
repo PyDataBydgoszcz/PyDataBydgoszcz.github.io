@@ -3,7 +3,7 @@ title: 5. spotkanie PyData Bydgoszcz
 feature-img: "assets/img/stock/green-snake-45246.jpg"
 thumbnail: "assets/img/stock/green-snake-45246-thumb.jpg"
 image: "assets/img/stock/green-snake-45246.jpg-thumb" #seo tag
-tags: [meetup, python, concurrent, parallel, testing]
+tags: [plum, python, micropython, pandas, refactor]
 
 Zapraszamy na piąte spotkanie grupy PyData Bydgoszcz!
 

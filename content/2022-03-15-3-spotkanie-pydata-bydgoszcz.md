@@ -3,7 +3,7 @@ title: 3. spotkanie PyData Bydgoszcz
 feature-img: "assets/img/stock/green-snake-45246.jpg"
 thumbnail: "assets/img/stock/green-snake-45246-thumb.jpg"
 image: "assets/img/stock/green-snake-45246.jpg-thumb" #seo tag
-tags: [meetup, python, concurrent, parallel, testing]
+tags: [python, algorithm, refactor, simple-vs-complex, api, api-design]
 
 Zapraszamy na długo oczekiwane trzecie spotkanie grupy PyData Bydgoszcz!
 
