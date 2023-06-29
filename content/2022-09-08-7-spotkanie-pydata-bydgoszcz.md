@@ -3,10 +3,8 @@ title: 7. spotkanie PyData Bydgoszcz
 feature-img: "assets/img/stock/green-snake-45246.jpg"
 thumbnail: "assets/img/stock/green-snake-45246-thumb.jpg"
 image: "assets/img/stock/green-snake-45246.jpg-thumb" #seo tag
-tags: [plum, python, micropython, pandas, refactor]
+tags: Python, Software Development, Machine Learning, Amazon Web Services,Refactoring
 
-
-# TODO TAGS!
 
 Zapraszamy na siódme spotkanie grupy PyData Bydgoszcz!
 
@@ -14,8 +12,7 @@ Kiedy: czwartek 8.09.2022, 18:00-20:15.
 Gdzie: klub Eljazz, Kręta 3, Bydgoszcz.
 Cena: zupełnie za darmo! i do tego konkurs z cennymi nagrodami!
 
-# TODO!
-![Meetup image](/assets/img/meetups/2022.06-fb.jpg)
+![Meetup image](/assets/img/meetups/2022.09-fb.jpg)
 
 # Plan wydarzenia:
 
