@@ -3,7 +3,7 @@ title: 7. spotkanie PyData Bydgoszcz
 feature-img: "assets/img/stock/green-snake-45246.jpg"
 thumbnail: "assets/img/stock/green-snake-45246-thumb.jpg"
 image: "assets/img/stock/green-snake-45246.jpg-thumb" #seo tag
-tags: Python, Software Development, Machine Learning, Amazon Web Services,Refactoring
+tags: meetup,Python, Software Development, Machine Learning, Amazon Web Services,Refactoring
 
 
 Zapraszamy na siódme spotkanie grupy PyData Bydgoszcz!

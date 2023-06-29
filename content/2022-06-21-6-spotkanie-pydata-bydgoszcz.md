@@ -3,7 +3,7 @@ title: 6. spotkanie PyData Bydgoszcz
 feature-img: "assets/img/stock/green-snake-45246.jpg"
 thumbnail: "assets/img/stock/green-snake-45246-thumb.jpg"
 image: "assets/img/stock/green-snake-45246.jpg-thumb" #seo tag
-tags: [plum, python, micropython, pandas, refactor]
+tags: meetup,plum, python, micropython, pandas, refactor
 
 Zapraszamy na szóste spotkanie grupy PyData Bydgoszcz!
 
