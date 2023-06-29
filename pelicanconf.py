@@ -29,8 +29,7 @@ SOCIAL = (
     ('meetup', 'https://www.meetup.com/PyData-Bydgoszcz/'),
     ('github', 'https://github.com/pydatabydgoszcz'),
     ('facebook', 'https://www.facebook.com/PyDataBydgoszcz/'),
-    ('twitter', 'https://twitter.com/pydatabydgoszcz'),
-    ('youtube', 'https://www.youtube.com/channel/UCe2iuKW4GLjR837xp-ERETQ'),
+    ('youtube', 'https://www.youtube.com/@PyDataBydgoszcz'),
     ('email', 'mailto:pydata.bydgoszcz@gmail.com'),
     ('linkedin', 'https://www.linkedin.com/company/pydatabydgoszcz'),
 )
