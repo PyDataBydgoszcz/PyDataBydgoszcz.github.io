@@ -30,7 +30,7 @@ SOCIAL = (
     ('github', 'https://github.com/pydatabydgoszcz'),
     ('facebook', 'https://www.facebook.com/PyDataBydgoszcz/'),
     ('youtube', 'https://www.youtube.com/@PyDataBydgoszcz'),
-    ('email', 'mailto:pydata.bydgoszcz@gmail.com'),
+    ('envelope', 'mailto:pydata.bydgoszcz@gmail.com'),
     ('linkedin', 'https://www.linkedin.com/company/pydatabydgoszcz'),
 )
 
